@@ -106,6 +106,7 @@ panic:
 
 stealth:
   hotkey: "Ctrl+Alt+Shift+F12"
+```
 
 ---
 
