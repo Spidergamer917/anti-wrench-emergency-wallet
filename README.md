@@ -107,6 +107,8 @@ panic:
 stealth:
   hotkey: "Ctrl+Alt+Shift+F12"
 
+---
+
 ## ❗ Troubleshooting
 | Problem                          | Solution                                                    |
 |----------------------------------|---------------------------------------------------------------|
@@ -115,8 +117,12 @@ stealth:
 | Emergency transfer failed        | Verify destination address. Ensure you have enough gas        |
 | Antivirus false positive         | Add AntiWrench.exe to exclusions – it's safe                  |
 
+---
+
 ## 📜 License
 MIT License – educational purposes only.
+
+---
 
 ## ⭐ Support
 If this tool gives you peace of mind, please star the repository!
